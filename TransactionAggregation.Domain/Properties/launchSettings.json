@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TransactionAggregation.Domain": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
