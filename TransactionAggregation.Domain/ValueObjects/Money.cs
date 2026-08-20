@@ -2,7 +2,6 @@
 
 public class Money
 {
-
     public decimal Amount { get; }
     public string Currency { get; }
 
