@@ -1,0 +1,32 @@
+﻿[
+  {
+    "txnId": "CP-5001",
+    "customer": "CUST-001",
+    "amountCents": 34999,
+    "ccy": "ZAR",
+    "direction": "DEBIT",
+    "timestamp": "2026-06-28T19:45:00+02:00",
+    "merchant": "Netflix",
+    "description": "NETFLIX SUBSCRIPTION"
+  },
+  {
+    "txnId": "CP-5002",
+    "customer": "CUST-001",
+    "amountCents": 15250,
+    "ccy": "ZAR",
+    "direction": "DEBIT",
+    "timestamp": "2026-06-29T13:10:00+02:00",
+    "merchant": "Nandos",
+    "description": "NANDOS RESTAURANT"
+  },
+  {
+    "txnId": "CP-5003",
+    "customer": "CUST-001",
+    "amountCents": 89900,
+    "ccy": "ZAR",
+    "direction": "DEBIT",
+    "timestamp": "2026-07-02T10:00:00+02:00",
+    "merchant": "Takealot",
+    "description": "TAKEALOT ONLINE ORDER"
+  }
+]
