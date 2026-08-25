@@ -15,4 +15,16 @@
     <ProjectReference Include="..\TransactionAggregation.Domain\TransactionAggregation.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="MockData\card-processor.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="MockData\core-banking.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="MockData\wallet.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
