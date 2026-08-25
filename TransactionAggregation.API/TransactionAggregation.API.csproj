@@ -14,10 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\TransactionAggregation.Application\TransactionAggregation.Application.csproj" />
     <ProjectReference Include="..\TransactionAggregationApi.Infrastructure\TransactionAggregation.Infrastructure.csproj" />
   </ItemGroup>
